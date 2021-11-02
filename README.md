@@ -42,7 +42,8 @@ There is 1 notebook available above which answers the above-mentioned questions.
 
 ## Results<a name="results"></a>
 
-The code's main findings are included in the following post:
+The code's main findings are included in the following post:<a href="https://medium.com/@haneenabdullah40/student-performance-in-exam-analysis-4a8f1aff5a11"> Here </a>
+
 
 
 
